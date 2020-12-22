@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="P7task9" type="Application" factoryName="Application" folderName="Practice7">
+    <option name="MAIN_CLASS_NAME" value="com.bbso_01_19_kuznetsov.Practice7.task9.Main" />
+    <module name="Java" />
+    <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
